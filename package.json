@@ -17,7 +17,7 @@
 	"dependencies": {
 		"clean-css": "^4.2.3",
 		"css-tree": "^1.0.0-alpha.39",
-		"node-fetch": "^2.6.1"
+		"node-fetch": "^2.6.7"
 	},
 	"devDependencies": {
 		"@rollup/plugin-commonjs": "^19.0.0",
